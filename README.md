@@ -20,7 +20,7 @@ Usage
 
 Example
 
-Welcome to the ultimate calculator! With this tool, you can perform a wide range of calculations and even review your previous calculations. 
+```Welcome to the ultimate calculator! With this tool, you can perform a wide range of calculations and even review your previous calculations. 
 Simply choose one of the options below to get started.
 
 1. Addition
@@ -40,6 +40,7 @@ Please seperate your numbers by a comma
 1,2,3
 
 Result of added numbers: 6
+```
 
 Requirements
 
