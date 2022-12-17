@@ -45,4 +45,4 @@ Result of added numbers: 6
 
 ## Requirements
 
-    Python 3.x
+    [Python 3.11](https://www.python.org/downloads/).
