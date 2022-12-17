@@ -1,4 +1,4 @@
-#Ultimate Calculator
+# Ultimate Calculator
 
 Welcome to the ultimate calculator! With this tool, you can perform a wide range of calculations and even review your previous calculations. Simply choose one of the options below to get started.
 Features
@@ -11,14 +11,14 @@ Features
     Exponentiation
     Modulus
 
-#Usage
+## Usage
 
     Choose an option from the menu
     Enter your calculation
     Review your previous calculations by typing "History" at any time
     Exit the calculator by typing "Quit" at any time
 
-#Example
+## Example
 
 ```py
 Welcome to the ultimate calculator! With this tool, you can perform a wide range of calculations and even review your previous calculations. 
@@ -43,6 +43,6 @@ Please seperate your numbers by a comma
 Result of added numbers: 6
 ```
 
-#Requirements
+## Requirements
 
     Python 3.x
