@@ -20,7 +20,8 @@ Usage
 
 Example
 
-```Welcome to the ultimate calculator! With this tool, you can perform a wide range of calculations and even review your previous calculations. 
+```py
+Welcome to the ultimate calculator! With this tool, you can perform a wide range of calculations and even review your previous calculations. 
 Simply choose one of the options below to get started.
 
 1. Addition
